@@ -1,0 +1,20 @@
+<html>
+    <head>
+	<title>sekma başlığı</title>
+	<style>
+	body{background-color:blue;}
+	h1{color:red;}
+	p{color:yellow;}
+	</style>
+	</head>
+	<body>
+	<h1>GÖREV</h1>
+	<p>butona yazı yaz.</p>
+	      <input value="" id="myinput"></input>
+	<button id="mybutton" type="button">click me</button>
+	 <script language="javascript">
+	    window.onload=function(){document.getElementById("mybutton").onclick=function(){alert(document.getElementById("myinput").value);
+		console.log(document.getElementById("myinput").value);}}
+		</script>
+		</body>
+		</html>
