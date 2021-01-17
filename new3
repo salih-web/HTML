@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The src özelliği</h2>
+<p>hocam bunu bn kendim denedim başka bir fotpğraf ile ama foto açılmadı neden?</p>
+
+<img src="img_girl.jpg" width="500" height="600">
+
+</body>
+</html>
